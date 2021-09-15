@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:austinm2040@gmail.com)
 [![GitHub](https://img.shields.io/badge/austinm2040%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/austinm2040)](https://github.com/austinm2040)
 
-- 👥 Humanist He/Him/His
+- 👥 Humanist (He/Him/His)
 - 👨‍💻 Software Engineer
 - 📖 Lifelong learner
 - 📍 Located in NYC
