@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:austinm2040@gmail.com)
 [![GitHub](https://img.shields.io/badge/austinm2040%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/austinm2040)](https://github.com/austinm2040)
 
-- 👥 Humanist (He/Him/His)
+- 👥 Humanist
 - 👨‍💻 Software Engineer
 - 📖 Lifelong learner
 - 📍 Located in NYC
@@ -39,8 +39,8 @@
     <tr>
       <td>Design and Development</td>
       <td>
-        <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
         <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+        <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
         <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
         <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
         <img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
