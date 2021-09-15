@@ -11,50 +11,58 @@
 
 ## 🔧 Technologies & Tools:
 
-### **Front End:**
-
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="Redux" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
-<img alt="Axios" src="https://img.shields.io/badge/-Axios-blueviolet" />
-<img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff" />
-<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
-<img alt="SASS" src="https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink" />
-<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff" />
-
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-blueviolet)
-![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink)
-![Material-UI](https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff)
-
-### **Back End:**
-
-![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose)
-
-### **Testing, Development, and Deployment:**
-
-![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha%20-%238D6748?&style=flat-square&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/Chai%20-%23F6ECD4.svg?&style=flat-square)
-![Babel](https://img.shields.io/badge/Babel%20-F9DC3e?style=flat-square&logo=babel&logoColor=black)
-![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman%20-FF6C37?style=flat-square&logo=postman&logoColor=red)
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white)
+<table>
+  <tbody>
+    <tr>
+      <td>Front End</td>
+      <td>
+        <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+        <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+        <img alt="Axios" src="https://img.shields.io/badge/-Axios-blueviolet" />
+        <img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff" />
+        <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
+        <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
+        <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+        <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff" />
+      </td>
+    </tr>
+    <tr>
+      <td>Back End</td>
+      <td>
+        <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white" />
+        <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white" />
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose" />
+      </td>
+    </tr>
+    <tr>
+      <td>Design and Development</td>
+      <td>
+        <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white" />
+        <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white" />
+        <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+        <img alt="Bash" src="https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black" />
+        <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" />
+        <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+        <img alt="webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" />
+        <img alt="Babel" src="https://img.shields.io/badge/Babel%20-F9DC3e?style=flat-square&logo=babel&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td>Testing and Deployment</td>
+      <td>
+        <img alt="Mocha" src="https://img.shields.io/badge/-mocha%20-%238D6748?&style=flat-square&logo=mocha&logoColor=white" />
+        <img alt="Chai" src="https://img.shields.io/badge/Chai%20-%23F6ECD4.svg?&style=flat-square" />
+        <img alt="Postman" src="https://img.shields.io/badge/Postman%20-FF6C37?style=flat-square&logo=postman&logoColor=red" />
+        <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white" />
+        <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📈 My GitHub Stats
 
