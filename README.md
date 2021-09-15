@@ -4,9 +4,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:austinm2040@gmail.com)
 [![GitHub](https://img.shields.io/badge/austinm2040%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/austinm2040)](https://github.com/austinm2040)
 
+- 👥 Humanist He/Him/His
 - 👨‍💻 Software Engineer
 - 📖 Lifelong learner
-- 👥 Humanist
 - 📍 Located in NYC
 
 ## 🔧 Technologies & Tools:
@@ -31,7 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose)
 
-### **Testing Development and Deployment:**
+### **Testing, Development, and Deployment:**
 
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
