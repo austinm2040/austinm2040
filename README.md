@@ -18,8 +18,8 @@
       <td>
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-        <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-        <img alt="Axios" src="https://img.shields.io/badge/-Axios-blueviolet" />
+        <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=Redux&logoColor=white" />
+        <img alt="Axios" src="https://img.shields.io/badge/-Axios-%23593d88.svg?style=for-the-badge&logo=Axios&logoColor=blueviolet" />
         <img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff" />
         <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
         <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
@@ -43,7 +43,7 @@
         <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
         <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white" />
         <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white" />
-        <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
         <img alt="Bash" src="https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black" />
         <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" />
         <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
