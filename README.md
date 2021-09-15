@@ -13,6 +13,16 @@
 
 ### **Front End:**
 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="Redux" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img alt="Axios" src="https://img.shields.io/badge/-Axios-blueviolet" />
+<img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
+<img alt="SASS" src="https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink" />
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff" />
+
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)
